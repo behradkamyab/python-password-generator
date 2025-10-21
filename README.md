@@ -22,7 +22,7 @@ A flexible command-line and Streamlit web-based tool that generates secure passw
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/python-password-generator.git
+   git clone https://github.com/behradkamyab/python-password-generator.git
    cd python-password-generator
    ```
 2. **Install dependencies**
